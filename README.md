@@ -1,0 +1,2 @@
+# MyFirstPj
+study using github
